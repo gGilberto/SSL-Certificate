@@ -65,3 +65,6 @@ server {
 }
 ufw allow 'Nginx Full'
 ufw delete allow 'Nginx HTTP'
+
+
+as
